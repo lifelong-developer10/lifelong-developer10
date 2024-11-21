@@ -8,9 +8,9 @@
 
 - 📝 Know about me [https://www.linkedin.com/in/shubhada-shingate-554595226](https://www.linkedin.com/in/shubhada-shingate-554595226)
 
-- 💬 Ask me about   Java, J2EE ,Html ,Css3 ,Bootstrap5 ,Javascript 
+- 💬 Ask me about :  Java, J2EE ,Html ,CSS3 ,Bootstrap5 ,Javascript, Sql
 
-- 📫 How to reach me  **shubhadahshingate@gmail.com**
+- 📫 How to reach me :  **shubhadahshingate@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
